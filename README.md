@@ -6,7 +6,7 @@ Três exemplos de menus animados em Flutter a partir de um FAB (Floating Action 
 Basicamente a ideia é utilizar a função de `paintChildren` do `FlowDelegate` para "posicionar" dinamicamente cada FAB, baseado no size, no tamanho da tela do app e na posição final que pode ser linear ou baseada em ângulos (para posicionamento circular).
 
 ## Exemplos
-![Vertical](./exemplo-vertical.png)
+<img src="./exemplo-vertical.png" width="250">
 ![Circular](./exemplo-circular.png)
 ![Arco](./exemplo-arco-1.png)
 ![Arco](./exemplo-arco-2.png)
